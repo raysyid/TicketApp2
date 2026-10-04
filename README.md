@@ -27,6 +27,6 @@ This project demonstrates the implementation of:
 ```text
 .
 ├── screenshots/
-│   └── ... screenshots
-├── Praktikum_....pdf
+│   └── ...
+├── Modul 4_245150600111003_Muhammad Rasyid Ridho
 └── Android project files
