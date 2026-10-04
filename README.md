@@ -26,7 +26,15 @@ This project demonstrates the implementation of:
 
 ```text
 .
-├── screenshots/
-│   └── ...
-├── Modul 4_245150600111003_Muhammad Rasyid Ridho
-└── Android project files
+├── .idea/                         # Android Studio project settings
+├── app/                           # Main Android application
+├── gradle/                        # Gradle configuration
+├── screenshots/                   # Screenshots of the application
+├── Modul 4_....pdf                # Practicum module/report PDF
+├── .gitignore
+├── README.md
+├── build.gradle.kts
+├── gradle.properties
+├── gradlew
+├── gradlew.bat
+└── settings.gradle.kts
